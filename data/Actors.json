@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"露西","characterIndex":0,"characterName":"01_露西","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"露西","traits":[],"initialLevel":1,"maxLevel":99,"name":"露西","nickname":"","note":"<AttackID:9>","profile":""},
+{"id":2,"battlerName":"卡洛","characterIndex":0,"characterName":"02_卡洛","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"卡洛","traits":[],"initialLevel":1,"maxLevel":99,"name":"卡洛","nickname":"","note":"<AttackID:8>","profile":""},
+{"id":3,"battlerName":"米雅","characterIndex":0,"characterName":"03_米雅","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"米雅","traits":[],"initialLevel":1,"maxLevel":99,"name":"米雅","nickname":"","note":"<AttackID:10>","profile":""},
+{"id":4,"battlerName":"伊森","characterIndex":0,"characterName":"04_伊森","classId":1,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"伊森","traits":[],"initialLevel":1,"maxLevel":99,"name":"伊森","nickname":"","note":"<AttackID:7>","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"空白","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
