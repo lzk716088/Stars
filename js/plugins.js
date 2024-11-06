@@ -13,5 +13,6 @@ var $plugins =
 {"name":"master2015hp_yedSideviewBattlerPatch-v2","status":true,"description":"fix compatibility prob with Yanfly Animated Enemies","parameters":{}},
 {"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 區域限制","parameters":{"Player Restrict":"5","Event Restrict":"1","All Restrict":"10","Player Allow":"2","Event Allow":"3","All Allow":"4"}},
 {"name":"MPP_HiddenPassage","status":true,"description":"Displays the tile with the specified region ID above the player.","parameters":{"Passable Region Ids":"15","Impassable Region Ids":"20"}},
-{"name":"STLLA_CustomBasicSkill","status":true,"description":"自訂普攻&防禦 v1.0","parameters":{}}
+{"name":"STLLA_CustomBasicSkill","status":true,"description":"自訂普攻&防禦 v1.0","parameters":{}},
+{"name":"SRD_BattleBackScroll","status":true,"description":"Allows developers to add movement to the two backgrounds within battles.","parameters":{}}
 ];
